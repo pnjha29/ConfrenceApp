@@ -9,12 +9,12 @@ Confrence1:
 	Track2:
 	Track3:
 	
-	Select Your confrence: confrence
-	Upload the csv for topics: csv
+- Select Your confrence: confrence
+- Upload the csv for topics: csv
   
   Confrence => Tacks (n) => Session (n) => tasks (n) 
 
-Confrence: {
+'''Confrence: {
 startdate:
 enddate:
 creator:
@@ -42,7 +42,7 @@ duration: in minute
 max time: in minute
 author: talk person
 topic: 
-}
+}'''
 
 LunchBreak (Dfeault Session)
 Networking (Dfeault Session)
